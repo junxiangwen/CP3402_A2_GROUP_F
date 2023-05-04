@@ -14,7 +14,7 @@ Zixi Hong(product manager)
 # Repository Contents
 The following is a list of folders in files contained in the repository and their purpose with links provided.
 
-[a2.html](): This is our html file which contains our website pages, a link to our mediums of collaboration, and a link to this repository
+[a2.html](https://github.com/ZiXiHong2022/CP3402_A2_GROUP_F/blob/main/A1.html): This is our html file which contains our website pages, a link to our mediums of collaboration, and a link to this repository
 
 [deployment.md](https://github.com/ZiXiHong2022/CP3402_A2_GROUP_F/blob/main/Deployment.md): This deployment documentation gives an overview of our local development (and tools used) and the deployment of our site
 
