@@ -22,3 +22,5 @@ The following is a list of folders in files contained in the repository and thei
 
 [theme.md](https://github.com/ZiXiHong2022/CP3402_A2_GROUP_F/blob/main/Theme.md): Our working documentation on the custom theme.how to modify it.
 
+# Instructions for creating content
+Site structure follows standard Wordpress rules, Simply create posts by following the guidelines [here] https://wordpress.org/support/article/writing-posts/. Pages can be edited using the Elementor live edit on each page. Learn how here
