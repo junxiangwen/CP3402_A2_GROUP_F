@@ -20,5 +20,5 @@ The following is a list of folders in files contained in the repository and thei
 
 [site.md](https://github.com/ZiXiHong2022/CP3402_A2_GROUP_F/blob/main/Site.md): This site documentation gives an overview on our WordPress site, plugins, features, and how to edit the site.
 
-[theme.md](https://github.com/ZiXiHong2022/CP3402_A2_GROUP_F/blob/main/Theme.md): Our working documentation on the custom theme, its origin and creation, important features, and how to modify it.
+[theme.md](https://github.com/ZiXiHong2022/CP3402_A2_GROUP_F/blob/main/Theme.md): Our working documentation on the custom theme.how to modify it.
 
